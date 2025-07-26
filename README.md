@@ -2,6 +2,19 @@
 
 A machine learning project that classifies music genres using audio features extracted from music samples. This project compares the performance of three different classification algorithms: k-Nearest Neighbors (k-NN), Decision Tree, and Logistic Regression.
 
+## Research Paper
+
+This project is accompanied by a detailed research paper that discusses the methodology, experiments, and results in depth.
+
+**Paper:** [Music Genre Classification Analysis.pdf](./Music_Genre_Classification_Analysis.pdf)
+
+The paper covers:
+- Literature review of music genre classification techniques
+- Detailed methodology and experimental setup
+- Comprehensive results analysis and discussion
+- Comparison with existing approaches
+- Conclusions and future work
+
 ## Dataset
 
 This project uses the **GTZAN Dataset** for music genre classification, which contains audio features extracted from music samples across 10 different genres including blues, classical, country, disco, hip-hop, jazz, metal, pop, reggae, and rock.
